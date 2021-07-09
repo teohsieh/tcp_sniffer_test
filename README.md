@@ -1,6 +1,6 @@
-# sniffer
+# tcp_sniffer
 
-Example code from my Develop a Packet Sniffer with libpcap blog.
+
 
 ## Build
 ./build.sh
